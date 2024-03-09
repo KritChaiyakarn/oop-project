@@ -41,7 +41,7 @@ st.write("**https://livejapan.com/**")
 
 st.sidebar.markdown("<h1 style='color:green;text-shadow: 2px 2px 8px rgba(0,0,0,0.5);'>จัดตามประเภท</h1>", unsafe_allow_html=True)
 
-if st.sidebar.button("Action"):
+if st.sidebar.button("Action / ต่อสู้"):
       with st.spinner('...'):
         time.sleep(1)
 
@@ -90,7 +90,7 @@ if st.sidebar.button("Action"):
       st.header("อ่านเพิ่มเติมได้ที่")
       st.markdown("**https://myanimelist.net/**")
 
-if st.sidebar.button("Romance"):
+if st.sidebar.button("Romance / รักใคร่"):
       with st.spinner('...'):
         time.sleep(1)
 
@@ -139,7 +139,7 @@ if st.sidebar.button("Romance"):
       st.header("อ่านเพิ่มเติมได้ที่")
       st.markdown("**https://myanimelist.net/**")
 
-if st.sidebar.button("Fantasy"):
+if st.sidebar.button("Fantasy / แฟนตาซี"):
       with st.spinner('...'):
         time.sleep(1)
 
@@ -188,7 +188,7 @@ if st.sidebar.button("Fantasy"):
       st.header("อ่านเพิ่มเติมได้ที่")
       st.markdown("**https://myanimelist.net/**")
 
-if st.sidebar.button("Shounen"):
+if st.sidebar.button("Shounen / หนุ่มน้อย"):
       with st.spinner('...'):
         time.sleep(1)
 
@@ -237,7 +237,7 @@ if st.sidebar.button("Shounen"):
       st.header("อ่านเพิ่มเติมได้ที่")
       st.markdown("**https://myanimelist.net/**")
 
-if st.sidebar.button("Seinen"):
+if st.sidebar.button("Seinen / วัยรุ่น"):
       with st.spinner('...'):
         time.sleep(1)
 
