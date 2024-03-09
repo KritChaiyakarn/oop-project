@@ -5,7 +5,8 @@
   * name: กฤษฎิ์ ไชยกาล
 ## technology: [streamlit]
 ## application description:
+  * เกี่ยวกับอนิเมะและแนะนำอนิเมะประเภทต่างๆ
 
-## presentation: [slide/canva/etc..] link [public/ubu]
+## presentation: [canva] link [public/ubu]
 ## video: link [public/ubu]
  xoxoxo
